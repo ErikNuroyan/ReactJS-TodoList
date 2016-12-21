@@ -1,0 +1,16 @@
+{
+  "name": "cool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bundle.js",
+  "scripts": {
+    "start":"webpack-dev-server",
+    "front-end":"webpack --progress --colors"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  }
+}
